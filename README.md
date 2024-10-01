@@ -21,7 +21,7 @@ The **Tax Management App** is an iOS application built using Swift, designed to 
    ```bash
    git clone https://github.com/NishitShah18/Tax-Management-App.git
 2. **Open the project**:<br>
-   Open the project in Xcode by double-clicking the .xcodeproj file.
+   Open the project in Xcode by double-clicking the .xcodeproj file inside a4_ngshah3 folder.
 3. **Install dependencies**:<br>
    Ensure that you have the latest version of Xcode installed.
    Open Xcode, and navigate to the project’s settings to resolve any dependencies or frameworks.
