@@ -31,4 +31,4 @@ The **Tax Management App** is an iOS application built using Swift, designed to 
    Click the Run button to build and run the app.
 
 ## Live Demo:
-You can view the live demo of the app [here](https://seneca-my.sharepoint.com/:v:/g/personal/ngshah3_myseneca_ca/ERkP5fgskfVLh-8HJ-x9dsIBu01Kqpg6sTLx_dZ2nprFOw?e=0go2Wm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D).
+You can view the walkthrough and demo of the app [here](https://seneca-my.sharepoint.com/:v:/g/personal/ngshah3_myseneca_ca/ERkP5fgskfVLh-8HJ-x9dsIBu01Kqpg6sTLx_dZ2nprFOw?e=0go2Wm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D).
